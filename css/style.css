@@ -1,0 +1,171 @@
+/*
+font-family: 'PT Sans', sans-serif;
+*/
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+
+header{
+    background: #FFDC00;
+    padding-top: 75px;
+    padding-bottom:100px;
+}
+
+.menu{
+
+}
+
+
+.menu__item{
+    margin: 0 0 0 60px;
+    padding:0;
+    display: block;
+}
+
+.menu__item a{
+    font-size: 22px;
+    color:#000;
+    font-weight: 700;
+}
+
+.menu__item a:hover{
+    text-decoration: none;
+}
+
+.offer{
+    margin-top:150px;
+}
+
+.offer h2{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.offer__intro{
+    margin-top:25px;
+    font-size: 20px;
+}
+
+.offer p{
+    font-size: 16px;
+    margin-top: 30px;
+    width: 400px;
+    line-height: 18px;
+}
+
+.icons{
+    margin:0;
+    padding:0;
+}
+
+.icons__item{
+    display:block;
+    margin:0 40px 0 0;
+    padding:0;
+    font-size: 42px;
+}
+
+.icons__item a{
+    color:#000;
+}
+
+.icons__item a:hover{
+    text-decoration: none;
+}
+
+.ipad{
+    margin:75px auto 0;
+    display: block;
+}
+
+.sectionGL{
+    padding-bottom:170px;
+}
+
+.content{
+    width: 780px;
+    text-align: center;
+    padding-top:120px;
+}
+
+.content__title{
+    font-size: 32px;
+    font-weight: 700;
+    
+}
+
+.content__intro{
+    
+    font-size: 20px;
+    color: #2A353F;
+}
+
+.content__item{
+    margin-top:90px;
+}
+
+.content__item i{
+    font-size: 50px;
+    color: #000;
+    margin-right: 35px;
+}
+
+.content__of h3{
+    font-size: 22px;
+    
+}
+
+.content__of p{
+    font-size: 16px;
+    color: #8A8A8A;
+    width: 200px;
+}
+
+footer{
+    background: #000;
+}
+
+.footer__title{
+    font-size: 32px;
+    font-weight: 700;
+    color: #FFDC00;
+}
+
+.footer__intro{
+    font-size: 20px;
+    color: #5D5D5D;
+    padding-bottom: 45px;
+}
+
+.form{
+    text-align: center;
+}
+
+.email-form{
+    width: 580px;
+    border-radius: 5px;
+    height: 50px;
+    font-size: 16px;
+    padding-left: 25px;
+    border: 0;
+}
+
+.form__btn{
+    font-size: 16px;
+    background: #FFDC00;
+    text-transform: uppercase;
+    text-align: center;
+    width: 125px;
+    height: 50px;
+    border: 0;
+    border-radius: 5px;
+    margin-left: 20px;
+    font-weight: 700;
+}
+
+.ft{
+    color: #fff;
+    line-height: 1.3em;
+    padding: 55px 0 105px;
+    text-align: center;
+}
